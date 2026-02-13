@@ -53,7 +53,7 @@ function generateMessage(noCount) {
   const messages = [
     "No 😔",
     "Are you sure? 🥺",
-    "Pookie please 🥹",
+    "Baby please 🥹",
     "Don't do this to me 😭",
     "You're breaking my heart 💔",
     "I'm gonna cry... 😭💔",
