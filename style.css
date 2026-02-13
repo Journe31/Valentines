@@ -72,15 +72,15 @@ body {
   }
 }
 .btn-yes {
-  background-color: #ffc0cb;
-  color: pink;
+  background-color: #26953c;
+  color: white;
 }
 
 .btn-no {
-  background-color: rgb(255, 192, 203);
-  color: pink;
+  background-color: rgb(166, 37, 82);
+  color: white;
   transition: background-color 0.3s, transform 0.2s;
 }
 .hidden {
   display: none;
-} 
+}
